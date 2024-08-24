@@ -4,10 +4,22 @@ Notas y apuntes.
 
 
 ---
->How To: Add a Captive Web Portal to an SSID
-##### Cómo: Agregar un portal web cautivo a un SSID
-<!-- Insertar un video de Youtube en-->
-[![](https://markdown-videos.deta.dev/youtube/vOcReGv34bY)](https://www.youtube.com/watch?v=vOcReGv34bY)
+[How To: Onboard an Access Point](https://www.youtube.com/watch?v=DSdSF11Fscw)
+##### Cómo: Incorporar un Punto de Acceso
+---
+[How To: Registrar un Nuevo Punto de Acceso](https://www.youtube.com/watch?v=3wkRcN2VVd8)
+##### Cómo: Registrar un Nuevo Punto de Acceso
+---
+[How To: Add Locations and Setup Floorplans]([https://www.youtube.com/watch?v=3wkRcN2VVd8](https://www.youtube.com/watch?v=6MAzLmOW-5Q))
+##### Cómo: Agregar Ubicaciones y Configurar Planos de Planta
+---
+
+
+
+
+
+[How To: Add a Captive Web Portal to an SSID](https://www.youtube.com/watch?v=vOcReGv34bY)
+##### Cómo: Agregar un Portal Web Cautivo a un SSID
 ---
 
 
