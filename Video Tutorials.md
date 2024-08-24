@@ -63,6 +63,11 @@ Video Tutorials
 |Network health features, like latency             | 6:06  |  
 |Service health features, like DNS availability    |       |  
 
+---
+##### ExtremeCloud IQ – Cloud Config Groups & Classification Rules
+[ExtremeCloud IQ – Cloud Config Groups & Classification Rules Part 1 – Extreme Dojo](https://www.youtube.com/watch?v=o2-vStscASs)
+
+[ExtremeCloud IQ – Cloud Config Groups & Classification Rules Part 2 – Extreme Dojo](https://www.youtube.com/watch?v=ejr18nhGKos&t=13s)
 
 ---
 
