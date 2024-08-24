@@ -3,7 +3,7 @@
 Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/search?query=ExtremeCloud%20IQ)
 
 
-
+### HOW TO
 ---
 ##### Cómo: Incorporar un Punto de Acceso
 [How To: Onboard an Access Point](https://www.youtube.com/watch?v=DSdSF11Fscw)
@@ -43,6 +43,9 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 |[Deploy a Policy](https://www.youtube.com/watch?v=vOcReGv34bY&t=158s) | 2:38 |  
 |[Summary](https://www.youtube.com/watch?v=vOcReGv34bY&t=188s) | 3:08 |  
 
+
+
+### ExtremeCloudIQ
 ---
 ##### ExtremeCloud IQ – Network 360
 [ExtremeCloud IQ – Network 360 Part 1 – Extreme Dojo](https://www.youtube.com/watch?v=teqQ-4O8Bc4)
@@ -86,6 +89,13 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 [ExtremeCloud IQ – 802.1X Authentication – Extreme Dojo](https://www.youtube.com/watch?v=CkOvtQJtSLs)
 
 ---
+##### ExtremeCloud IQ: Conoce las nuevas licencias Pilot para cubrir productos Extreme en la nube
+[ExtremeCloud IQ: Conoce las nuevas licencias Pilot para cubrir productos Extreme en la nube](https://www.youtube.com/watch?v=9iTTOXI3bec)
+
+---
+
+
+
 ---
 ##### Wi-Fi Troubleshooting with David Coleman
 [Wi-Fi Troubleshooting with David Coleman](https://www.youtube.com/watch?v=0uJY6MQFq30)
