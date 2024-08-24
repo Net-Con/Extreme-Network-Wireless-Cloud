@@ -10,9 +10,13 @@ Notas y apuntes.
 [How To: Registrar un Nuevo Punto de Acceso](https://www.youtube.com/watch?v=3wkRcN2VVd8)
 ##### Cómo: Registrar un Nuevo Punto de Acceso
 ---
-[How To: Add Locations and Setup Floorplans]([https://www.youtube.com/watch?v=3wkRcN2VVd8](https://www.youtube.com/watch?v=6MAzLmOW-5Q))
+[How To: Add Locations and Setup Floorplans](https://www.youtube.com/watch?v=6MAzLmOW-5Q)
 ##### Cómo: Agregar Ubicaciones y Configurar Planos de Planta
 ---
+[How To: Update Device Firmware](https://www.youtube.com/watch?v=L0bBYafR3SM)
+##### Cómo: Actualizar el Firmware del Dispositivo
+---
+
 
 
 
