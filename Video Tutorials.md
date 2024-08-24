@@ -1,6 +1,6 @@
 # Extreme Network Wireless Cloud
 
-Video Tutorials
+Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/search?query=ExtremeCloud%20IQ)
 
 
 
@@ -70,6 +70,31 @@ Video Tutorials
 [ExtremeCloud IQ – Cloud Config Groups & Classification Rules Part 2 – Extreme Dojo](https://www.youtube.com/watch?v=ejr18nhGKos&t=13s)
 
 ---
+##### ExtremeCloud IQ – Device Discovery & Provisioning
+[ExtremeCloud IQ – Device Discovery & Provisioning Part 1 – Extreme Dojo](https://www.youtube.com/watch?v=A_QMGEPj_Oo)
+
+[ExtremeCloud IQ – Device Discovery & Provisioning Part 2 – Extreme Dojo](https://www.youtube.com/watch?v=Z4iACCzHUVc)
+
+---
+##### ExtremeCloud IQ – User Profiles
+[ExtremeCloud IQ – User Profiles Part 1 – Extreme Dojo](https://www.youtube.com/watch?v=icuEttzkJ30)
+
+[ExtremeCloud IQ – User Profiles Part 2 – Extreme Dojo](https://www.youtube.com/watch?v=-ethMPWDoDQ)
+
+---
+##### ExtremeCloud IQ – 802.1X Autenticación
+[ExtremeCloud IQ – 802.1X Authentication – Extreme Dojo](https://www.youtube.com/watch?v=CkOvtQJtSLs)
+
+---
+---
+##### Wi-Fi Troubleshooting with David Coleman
+[Wi-Fi Troubleshooting with David Coleman](https://www.youtube.com/watch?v=0uJY6MQFq30)
+
+---
+
+
+
+
 
 
 
