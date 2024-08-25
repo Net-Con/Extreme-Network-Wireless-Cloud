@@ -29,7 +29,7 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 [How To - Update Universal AP OS for Local Management](https://www.youtube.com/watch?v=uVoC-NrOuXc)
 
 ---
-##### CCómo: crear una política PSK de red básica
+##### Cómo: crear una política PSK de red básica
 [How To - Create a Basic Network PSK Policy](https://www.youtube.com/watch?v=vxgZWY6v25E)
 
 ---
@@ -101,7 +101,16 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 [Wi-Fi Troubleshooting with David Coleman](https://www.youtube.com/watch?v=0uJY6MQFq30)
 
 ---
+##### Proxy SSH en ExtremeCloud IQ para solucionar problemas
+[SSH Proxy in ExtremeCloud IQ for Troubleshooting](https://www.youtube.com/watch?v=MMYt5spcBbI&t=17s)
 
+| Topic | Time |
+| --- | --- |
+  |[Topology View](https://www.youtube.com/watch?v=MMYt5spcBbI&t=74s)  | 1:14  |  
+|[Start and SSH Proxy Session](https://www.youtube.com/watch?v=MMYt5spcBbI&t=171s)  | 2:51  |  
+|End the Session  | 6:06  |  
+
+---
 
 
 
