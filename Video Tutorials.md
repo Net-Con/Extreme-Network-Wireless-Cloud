@@ -111,7 +111,7 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 | Topic | Time |
 | --- | --- |
   |[Topology View](https://www.youtube.com/watch?v=MMYt5spcBbI&t=74s)  | 1:14  |  
-|[Start and SSH Proxy Session](https://www.youtube.com/watch?v=MMYt5spcBbI&t=171s)  | 2:51  |  
+|[Start and SSH Proxy Session](https://www.youtube.com/watch?v=MMYt5spcBbI&t=62s)  | 1:02  |  
 |End the Session  | 6:06  |  
 
 ---
