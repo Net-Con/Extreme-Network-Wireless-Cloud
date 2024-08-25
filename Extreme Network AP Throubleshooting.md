@@ -3,7 +3,7 @@
 <!-- CLI Command -->
 ```js
 show boot-param
-```js
+```
 
 <!-- Output -->
 ```js
