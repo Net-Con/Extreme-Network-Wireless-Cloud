@@ -101,8 +101,12 @@ Video Tutorials [Extreme Cloud IQ](https://www.youtube.com/@ExtremeNetworks/sear
 [Wi-Fi Troubleshooting with David Coleman](https://www.youtube.com/watch?v=0uJY6MQFq30)
 
 ---
-##### Proxy SSH en ExtremeCloud IQ para solucionar problemas
+### Proxy SSH en ExtremeCloud IQ para Solucionar Problemas :star:
 [SSH Proxy in ExtremeCloud IQ for Troubleshooting](https://www.youtube.com/watch?v=MMYt5spcBbI&t=17s)
+
+>We connect to the AP via SSH through the Cloud  
+>Global Setting --> VIQ Management --> SSH Availability (ON)  
+>ML Insights --> Network 360 Monitor --> Floor/Topology/Access Point --> SSH  
 
 | Topic | Time |
 | --- | --- |
